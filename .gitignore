@@ -1,0 +1,17 @@
+# VScode config directories
+*.vsocde/
+*.env/
+
+# Cache files
+*.swp
+*.un~
+*~
+*.history
+*:Zone_Identifier
+
+# Python cache and precompiled files
+**.ipynb_checkpoints
+**__pycache__
+*.pyc
+
+
